@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Actions",
+    "\\app\\Actions\\Jetstream",
+    "\\resources",
+    "\\resources\\js",
+    "\\resources\\js\\Pages",
+    "\\resources\\js\\Pages\\Profile",
+    "\\resources\\views",
+    "\\resources\\views\\vendor",
+    "\\resources\\views\\vendor\\jetstream"
+  ],
+  "PreviewInSolutionExplorer": false
+}
